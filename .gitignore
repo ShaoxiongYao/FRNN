@@ -10,3 +10,5 @@ drill/
 dist/
 data/
 tests/output/
+
+env/
